@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pth
+
+# Environments
+venv/
+.venv/
+miniconda3/
+anaconda3/
+
+# Data & models
+data/datasets/raw/
+data/datasets/processed/
+data/models/*.pth
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+.DS_Store
